@@ -49,3 +49,12 @@ h2{
 #preparacao h3{
     color: #8f526c;
 }
+
+#preparacao ul{
+    margin: 10px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 10px;
+    list-style-type: square;
+}
