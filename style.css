@@ -40,8 +40,10 @@ h2{
 }
 
 #preparacao{
-  background-color: #fae0f0;
+  background-color: #FEF6FB ;
   padding: 20px;
+  margin: 30px;
+  border-radius: 20px;
 }
 
 #preparacao h3{
