@@ -58,3 +58,9 @@ h2{
     gap: 10px;
     list-style-type: square;
 }
+
+#preparacao ul li::marker{
+    font-size: 10px;
+    color: #8f526c;
+    padding-right: 20px;
+}
