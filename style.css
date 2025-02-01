@@ -19,6 +19,9 @@ body{
     background-color: #fff;
     max-width: 500px;
     max-height: 2000px;
+    margin: 100px;
+    padding: 30px;
+    border-radius: 20px;
 }
 
 img{
