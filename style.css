@@ -1,5 +1,9 @@
+@import url(https://db.onlinewebfonts.com/c/3ae082b1ff6983179a84414e4877f28b?family=Old+Roman+W00+Bold);
+@import url(https://db.onlinewebfonts.com/c/7c3caf543ed48fcb119d52af1a8e0ebf?family=Futura+Now+Headline);
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: "Futura Now Headline";
 }
