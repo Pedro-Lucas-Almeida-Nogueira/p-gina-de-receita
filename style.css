@@ -70,3 +70,13 @@ h2{
     font-size: 40px;
     margin: 20px 0px 20px 0px;
 }
+
+#ingredientes ul{
+    list-style-type: square;
+    list-style-position:inside;
+}
+#ingredientes ul li::marker{
+    font-size: 10px;
+    color: #704240;
+    margin-right: 5px;
+}
