@@ -80,3 +80,16 @@ h2{
     font-size: 10px;
     color: #704240;
 }
+
+#instrucoes ol{
+    list-style-position: inside;
+}
+#instrucoes ol li{
+    font-size: 15px;
+    margin: 10px;
+}
+#instrucoes ol li::marker{
+    color: #704240;
+    font-size: 13px;
+    font-weight: bold;
+}
